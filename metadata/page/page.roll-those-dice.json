@@ -1,0 +1,32 @@
+{
+  "_id": "page.roll-those-dice",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.roll-those-dice--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.roll-those-dice--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Yep",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.roll-those-dice--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Nope",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.roll-those-dice--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "What dice?",
+          "name": "auto_name__4"
+        }
+      ],
+      "legend": "You gonna roll those dice?"
+    }
+  ],
+  "url": "roll-those-dice"
+}

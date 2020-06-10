@@ -1,5 +1,8 @@
 {
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
-  "_type": "config.service"
+  "_type": "config.service",
+  "name": "Done, done, on to the next one",
+  "phase": "alpha",
+  "phaseText": "Welcome to the next phase"
 }
