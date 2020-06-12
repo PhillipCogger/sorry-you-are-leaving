@@ -2,7 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Done, done, on to the next one",
+  "name": "Look back before you leave",
   "phase": "alpha",
-  "phaseText": "WELCOME TO THE NEXT PHASE ALICE"
+  "phaseText": "WELCOME TO THE NEXT PHASE"
 }
